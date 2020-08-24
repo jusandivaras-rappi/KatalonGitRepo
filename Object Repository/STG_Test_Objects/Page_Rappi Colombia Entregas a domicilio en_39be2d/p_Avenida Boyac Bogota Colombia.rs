@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Avenida Boyac Bogota Colombia</name>
+   <tag></tag>
+   <elementGuidId>ca1bda27-5bd8-4db4-a5e0-4a0f44da616a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-container']/div/span/app-home-default/app-home-guest/app-banner/div/app-location-search/div/div/app-rappi-address-input/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.result-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>result-description</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Avenida Boyacá Bogota, Colombia</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-container&quot;)/div[@class=&quot;total-width&quot;]/span[@class=&quot;app-span-container ng-star-inserted&quot;]/app-home-default[@class=&quot;ng-star-inserted&quot;]/app-home-guest[@class=&quot;ng-star-inserted&quot;]/app-banner[1]/div[@class=&quot;banner-container&quot;]/app-location-search[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;location-container&quot;]/div[@class=&quot;location-input border-input&quot;]/app-rappi-address-input[@class=&quot;input&quot;]/div[@class=&quot;input-rappi-address-container&quot;]/div[@class=&quot;suggested-search&quot;]/div[@class=&quot;search-item-address ng-star-inserted&quot;]/p[@class=&quot;result-description&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-container']/div/span/app-home-default/app-home-guest/app-banner/div/app-location-search/div/div/app-rappi-address-input/div/div/div/p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pide en Supermercados, Restaurantes y mucho más.'])[1]/following::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trabaja con nosotros'])[1]/following::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ave'])[2]/preceding::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='nida Boyacá Bogota, Colombia']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-rappi-address-input/div/div/div/p</value>
+   </webElementXpaths>
+</WebElementEntity>
